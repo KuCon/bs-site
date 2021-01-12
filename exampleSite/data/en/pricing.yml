@@ -20,7 +20,8 @@ pricing:
     unit: Tag
     services:
     - Verfügbarkeit in 12h
-    - 24/7 Erreichbarkeit
+    - Direktdurchwahl
+    - Sicherung feste Berater
     button:
-      label: Signup
+      label: Kontakt
       link: "#"
