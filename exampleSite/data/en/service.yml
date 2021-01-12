@@ -12,7 +12,7 @@ service:
     content: Wir helfen Ihnen die richtigen nächsten Schritte zu bestimmen und die
       richtigen Unterstützer für diese Schritte auszuwählen.
   - name: Abgrenzbar
-    icon: ti-package
+    icon: ti-layout
     content: Wir verkaufen keine langfristigen Projekte und keine Strategieentwicklung.
       Wir helfen Ihnen dabei Probleme und Möglichkeiten zu überblicken.
   - name: Zeitkritisch
