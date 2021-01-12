@@ -1,31 +1,20 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  # Contact details
+  enable: true
+  title: Kontakt
+  subtitle: Kontaktmöglichkeiten
+  content: Wir sind 24/7 auf verschiedenen Kanälen erreichbar. Bei zeitkritischen
+    Bedarfen bitten wir Sie uns telefonisch zu kontaktieren.
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
-
-
-  # Contact form
+  - icon: ti-mobile
+    info: "+880-31-000-000"
+  - icon: ti-email
+    info: contact@berater-sofort.de
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: true
+    form_action: "#"
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
