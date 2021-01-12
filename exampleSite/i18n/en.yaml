@@ -1,4 +1,6 @@
 ---
+- id: impressumTitle
+  translation: Impressum DE
 - id: blogTitle
   translation: Mehr Infos
 - id: readMore
