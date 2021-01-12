@@ -14,7 +14,7 @@ pricing:
     - 24/7 Erreichbarkeit
     button:
       label: Kontakt
-      link: "#"
+      link: "#Contact"
   - name: Retainer
     price: 1.000€
     unit: Tag
