@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Premium
     price: 10.000€
-    unit: day
+    unit: Tag
     services:
     - Berater innerhalb von 24h
     - Deutschlandweite Verfügbarkeit
@@ -15,16 +15,12 @@ pricing:
     button:
       label: Kontakt
       link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: Retainer
+    price: 1.000€
+    unit: Tag
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Verfügbarkeit in 12h
+    - 24/7 Erreichbarkeit
     button:
       label: Signup
       link: "#"
