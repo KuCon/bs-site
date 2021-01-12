@@ -1,12 +1,14 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/istock-841102872.jpg
+  icon: ''
+  title: Berater-sofort.de | Die unkonventionelle Beratung
+  content: Berater für Ihr Problem innerhalb von 24h | Schnelle, professionelle Einschätzungen
+    ihrer Probleme und Situationen | Unterstützung bei der Bestimmung der nächsten
+    Schritte
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
