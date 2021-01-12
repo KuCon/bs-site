@@ -1,10 +1,10 @@
 ---
-title: "Impressum"
-date: 2021-01-12T12:52:36+06:00
+title: Impressum
+date: 2021-01-12T12:52:36.000+06:00
 author: Kuron Consulting UG
-description : "Impressum"
----
+description: Impressum
 
+---
 Angaben gemäß § 5 TMG
 
 Kuron Consulting
