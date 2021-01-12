@@ -9,7 +9,7 @@
 				<div class="title text-center">
 					<h2>{{ with i18n "impressumTitle" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with i18n "impressumTitle" }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</h2>
-						{{ .Render "impressum" }}
+						{{ .Render "single" }}
 						
 					<div class="border-meghna"></div>
 				</div>
