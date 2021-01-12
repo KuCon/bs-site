@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "berater-sofort.de | Berater für Ihr Problem in 24H"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 - berater-sofort.de\n\nberater-sofort.de ist eine Marke von Kuron Consulting UG\n\nDesigned by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
