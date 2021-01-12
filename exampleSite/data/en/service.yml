@@ -15,10 +15,10 @@ service:
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Wegweisend
+    icon: ti-direction-alt
+    content: Wir helfen Ihnen die richtigen nächsten Schritte zu bestimmen und die
+      richtigen Unterstützer für diese Schritte auszuwählen.
   - name: Abgrenzbar
     icon: ti-package
     content: Wir verkaufen keine langfristigen Projekte, keine Strategieentwicklung
