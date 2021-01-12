@@ -3,14 +3,6 @@ service:
   enable: true
   title: Unsere Leistungen
   service_item:
-  - name: WordPress Theme
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Diskret
     icon: ti-line-dashed
     content: Wir sind schnell und diskret verfügbar und bearbeiten insbesondere unkonventionelle
