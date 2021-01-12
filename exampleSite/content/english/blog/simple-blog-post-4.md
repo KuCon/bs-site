@@ -1,6 +1,6 @@
 ---
 title: Impressum
-date: 2021-01-12T12:52:36.000+06:00
+date: 2021-01-12T06:52:36+00:00
 author: Kuron Consulting UG
 description: Impressum
 
