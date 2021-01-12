@@ -14,24 +14,29 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Über uns"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "Pricing"
 pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Kontakt"
 pre = "#"
 url = "contact"
+weight = 7
+[[Languages.en.menu.main]]
+name = "Impressum"
+pre = "#"
+url = "impressum"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
