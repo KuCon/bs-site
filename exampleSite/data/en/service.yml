@@ -13,8 +13,8 @@ service:
       richtigen Unterstützer für diese Schritte auszuwählen.
   - name: Abgrenzbar
     icon: ti-layout
-    content: Wir verkaufen keine langfristigen Projekte und keine Strategieentwicklung.
-      Wir helfen Ihnen dabei Probleme und Möglichkeiten zu überblicken.
+    content: Wir verkaufen keine Projekte und keine Strategie. Wir helfen Ihnen dabei
+      Probleme und Möglichkeiten zu überblicken.
   - name: Zeitkritisch
     icon: ti-pulse
     content: Wir helfen Ihnen in zeitkritischen Situation schnell zu ersten Einschätzungen
