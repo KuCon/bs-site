@@ -22,17 +22,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
+  label: Impressum
 - type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
+  path: exampleSite/content/english/impressum
+  label: Impressum (en)
   create: documents
   match: "**/*"
   templates:
