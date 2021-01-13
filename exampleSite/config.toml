@@ -75,4 +75,4 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif"
+preloader = "images/preloader_small.gif"
