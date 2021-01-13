@@ -4,8 +4,8 @@ title: "Impressum"
 date: 2018-09-12T12:52:36+06:00
 description : "Impressum"
 draft: false
-type: impressum
-layout: impressum
+type: single
+layout: single
 
 ---
 Angaben gemäß § 5 TMG
