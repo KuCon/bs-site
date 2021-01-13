@@ -2,7 +2,7 @@
 title: Impressum
 date: 2018-09-12T12:52:36.000+06:00
 description: Impressum
-type: article
+type: single
 
 ---
 Angaben gemäß § 5 TMG
