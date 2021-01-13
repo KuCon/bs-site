@@ -7,9 +7,9 @@ contact:
     Bedarfen bitten wir Sie uns telefonisch zu kontaktieren.
   contact_list:
   - icon: ti-mobile
-    info: "+880-31-000-000"
+    info: "+49 (0) 40-22851758"
   - icon: ti-email
-    info: contact@berater-sofort.de
+    info: kontakt@berater-sofort.de
   contact_form:
     enable: false
     form_action: "#"
