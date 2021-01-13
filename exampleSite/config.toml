@@ -33,11 +33,6 @@ name = "Kontakt"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "Impressum"
-pre = "#"
-url = "impressum"
-weight = 7
 [params]
 author = "sofort-berater.de"
 description = "Berater für Ihr Problem in 24h | Schnell, diskret, unkonventionell"
