@@ -4,8 +4,8 @@ title: "Impressum"
 date: 2021-01-12
 description : "Impressum"
 draft: false
-type: single
-layout: single
+type: impressum
+layout: impressum
 
 ---
 Angaben gemäß § 5 TMG
