@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/istock-841102872.jpg
+  bg_image_webp: images/bg_webp.webp
   bg_image: images/istock-841102872.jpg
   icon: ''
   title: Unkonventionelle Beratung für unkonventionelle Bedarfe
