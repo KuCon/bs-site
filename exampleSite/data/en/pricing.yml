@@ -4,7 +4,7 @@ pricing:
   title: Unsere Tagessätze
   pricing_table:
   - name: Premium
-    price: 10.000€
+    price: 5.000€
     unit: Tag
     services:
     - Berater innerhalb von 24h
