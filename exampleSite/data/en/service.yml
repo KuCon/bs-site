@@ -1,12 +1,12 @@
 ---
 service:
   enable: true
-  title: Unsere Leistungen
+  title: Unser Serviceversprechen
   service_item:
-  - name: Diskret
+  - name: Diskretion
     icon: ti-line-dashed
-    content: Wir sind schnell und diskret verfügbar und bearbeiten insbesondere unkonventionelle
-      Herausforderungen.
+    content: Wir sind schnell und flexibel verfügbar, lösen unkonventionelle Herausforderungen
+      mit einem differenzierten, lösungsorientierten Ansatz.
   - name: Wegweisend
     icon: ti-direction-alt
     content: Wir helfen Ihnen die richtigen nächsten Schritte zu bestimmen und die
