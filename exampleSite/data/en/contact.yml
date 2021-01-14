@@ -9,7 +9,7 @@ contact:
   - icon: ti-mobile
     info: "+49 (0) 40-22851758"
   - icon: ti-email
-    info: kontakt@berater-sofort.de
+    info: <a href= "mailto:kontakt@berater-sofort.de">kontakt@berater-sofort.de</a>
   contact_form:
     enable: false
     form_action: "#"
