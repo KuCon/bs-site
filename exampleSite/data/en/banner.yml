@@ -3,6 +3,8 @@ banner:
   enable: true
   bg_image_webp: images/bg_webp.webp
   bg_image: images/istock-841102872.jpg
+  bg_image_small_webp: images/bg_small_webp.jpg
+  bg_image_small: images/bg_small.jpg
   icon: ''
   title: Unkonventionelle Beratung für unkonventionelle Bedarfe
   content: Berater für Ihr Problem innerhalb von 24h - Schnelle, professionelle Einschätzungen
