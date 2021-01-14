@@ -14,8 +14,9 @@ service:
   - name: Abgrenzbar
     icon: ti-layout
     content: Wir verkaufen keine Projekte und keine Strategie. Wir helfen Ihnen dabei
-      Probleme und Möglichkeiten zu überblicken.
+      Probleme und Möglichkeiten zu überblicken sowie den passenden Lösungsansatz
+      nach Best Practise zu wählen.
   - name: Zeitkritisch
     icon: ti-pulse
-    content: Wir helfen Ihnen in zeitkritischen Situation schnell zu ersten Einschätzungen
-      zu kommen.
+    content: Wir helfen Ihnen dabei in zeitkritischen Situationen einen Überblick
+      zu verschaffen und eine erste Einschätzung zu Handlungsoptionen zu geben.
