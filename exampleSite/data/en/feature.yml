@@ -3,23 +3,23 @@ feature:
   enable: true
   image: ''
   image_webp: ''
-  title: We’re A Digital Design Agency.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: Unsere Glaubenssätze
+  content: Wir sind anders und das zeigt sich auch in unseren Glaubenssätzen die gleichzeitig
+    unseren eigenen Anspruch darstellen.
   feature_item:
-  - title: Verbindlichkeit
+  - title: Verbindlich
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Multi-lingual
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Data-driven
+    content: Kein Berater-Sprech, kein Bullshit. Ehrliche, ungefilterte und angemessene
+      Kommunikation steht für uns im Mittelpunkt.
+  - title: Multi-alles
+    icon: ti-world
+    content: Multi-lingual, multi-channel, multi-industry - unsere Spezialität ist
+      die Vielfältigkeit - und wir kennen die Spezialisten für tiefere Ansprüche.
+  - title: Data-driven + Reality-checked
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Daten sind der beste Weg um schnell und unkomplizierte Hypothesen zu
+      generieren. Die sind aber nur gut wenn sie auch zur Realität passen.
   - title: Down-to-earth
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Wir sind Macher. Wir packen an, stellen Fragen und kommunizieren und
+      kontaktieren so lange bis wir plausible Vorschläge machen können.
