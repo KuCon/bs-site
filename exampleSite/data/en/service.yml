@@ -3,14 +3,14 @@ service:
   enable: true
   title: Unser Serviceversprechen
   service_item:
-  - name: Diskretion
+  - name: Diskreti
     icon: ti-line-dashed
     content: Wir sind schnell und flexibel verfügbar, lösen unkonventionelle Herausforderungen
       mit einem differenzierten, lösungsorientierten Ansatz.
   - name: Wegweisend
     icon: ti-direction-alt
-    content: Wir helfen Ihnen die richtigen nächsten Schritte zu bestimmen und die
-      richtigen Unterstützer für diese Schritte auszuwählen.
+    content: 'Wir helfen Ihnen die konkreten nächsten Schritte zu definieren und die
+      passenden Unterstützer für diese Arbeitspakete auszuwählen. '
   - name: Abgrenzbar
     icon: ti-layout
     content: Wir verkaufen keine Projekte und keine Strategie. Wir helfen Ihnen dabei
@@ -19,4 +19,5 @@ service:
   - name: Zeitkritisch
     icon: ti-pulse
     content: Wir helfen Ihnen dabei in zeitkritischen Situationen einen Überblick
-      zu verschaffen und eine erste Einschätzung zu Handlungsoptionen zu geben.
+      zu verschaffen und eine erste Einschätzung zu Handlungsoptionen zu geben. Effektivität
+      und Effizienz stehen im Fokus unser Dienstleistungen.
