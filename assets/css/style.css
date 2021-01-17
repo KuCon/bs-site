@@ -302,7 +302,7 @@ a:hover {
 .title h2 {
   text-transform: capitalize;
   font-weight: 700;
-  font-size: 38px;
+  font-size: 6vw;
   color: #fff;
 }
 
@@ -489,7 +489,7 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
+  font-size: 6vw;
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
@@ -504,7 +504,7 @@ a:hover {
 
 .hero-area .block p {
   color: #fff;
-  font-size: 20px;
+  font-size: 2vw;
   width: 70%;
   margin: 0 auto;
 }
@@ -533,7 +533,7 @@ a:hover {
 }
 
 .hero-area-video .block h1 {
-  font-size: 60px;
+  font-size: 6vw;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -541,7 +541,7 @@ a:hover {
 .hero-area-video .block p {
   color: #fff;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 2vw;
   letter-spacing: 3px;
   margin-bottom: 20px;
 }
