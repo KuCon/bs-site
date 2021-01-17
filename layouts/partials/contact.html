@@ -31,6 +31,14 @@
 					{{ end }}
 				</div>
 				{{ end }}
+				<div class="contact-details" style="text-align: center">
+				{{ range .contact_list }}
+				<div class="con-info clearfix">
+					<i class="{{ .icon }}"></i>
+					<span>{{ if eq .icon "ti-email" }}<a href= "mailto:{{ .info }}">{{ .info }}</a>{{ else if eq .icon "ti-mobile" }}<a href= "tel:{{ .info }}">{{ .info }}</a>{{ else }}{{ .info }}{{ end }}</span>
+				</div>
+				{{ end }}
+			</div>
 			</div>
 
 			{{"<!-- Contact Form -->" | safeHTML}}
