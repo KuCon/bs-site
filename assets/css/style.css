@@ -497,7 +497,8 @@ a:hover {
   margin-left: 3px;
 }
 
-.hero-area .block h1 {
+.hero-area .block 
+{
   font-size: 4vw;
   color: #fff;
   text-transform: capitalize;
@@ -507,7 +508,13 @@ a:hover {
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
-    font-size: 5#;
+    font-size: 5vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-area .block h1 {
+    font-size: 6vw;
   }
 }
 
