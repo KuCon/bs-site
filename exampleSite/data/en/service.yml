@@ -3,7 +3,7 @@ service:
   enable: true
   title: Unser Serviceversprechen
   service_item:
-  - name: Diskreti
+  - name: Diskret
     icon: ti-line-dashed
     content: Wir sind schnell und flexibel verfügbar, lösen unkonventionelle Herausforderungen
       mit einem differenzierten, lösungsorientierten Ansatz.
