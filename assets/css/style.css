@@ -254,6 +254,9 @@ a:hover {
   .hero-visible {
     display: none;
   }
+  .hero-visible-small {
+    height: 350px;
+  } 
 }
 
 @media (min-width: 769px){
