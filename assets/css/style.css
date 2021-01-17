@@ -255,7 +255,7 @@ a:hover {
     display: none;
   }
   .hero-visible-small {
-    max-height: 150px;
+    padding: 0
   } 
 }
 
