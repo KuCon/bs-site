@@ -3,23 +3,24 @@ feature:
   enable: true
   image: ''
   image_webp: ''
-  title: Unsere Glaubenssätze
-  content: Wir sind anders und das zeigt sich auch in unseren Glaubenssätzen die gleichzeitig
-    unseren eigenen Anspruch darstellen.
+  title: Unsere Leitsätze
+  content: Wir sind anders und das leben wir. Unsere Einstellung spiegelt sich in
+    unseren Leitsätzen, die gleichzeitig unseren eigenen Anspruch darstellen.
   feature_item:
-  - title: Verbindlich
-    icon: ti-world
-    content: Kein Berater-Sprech, kein Bullshit. Ehrliche, ungefilterte und angemessene
-      Kommunikation steht für uns im Mittelpunkt.
+  - title: Verbindlich und direkt
+    icon: ti-thumb-up
+    content: Kein Berater-Slang, kein Bullshit. Ehrliche, ungefilterte und angemessene
+      Kommunikation steht für uns im Mittelpunkt. Die Lösung Ihres konkreten Problems
+      ist das Ziel, nicht der Verkauf eines langfristigen Beratungsprojekts.
   - title: Multi-alles
     icon: ti-world
-    content: Multi-lingual, multi-channel, multi-industry - unsere Spezialität ist
-      die Vielfältigkeit - und wir kennen die Spezialisten für tiefere Ansprüche.
+    content: Multi-lingual, multi-channel, multi-industry - unsere Kompetenz ist die
+      Vielfältigkeit - und wir kennen die Spezialisten für tiefere Ansprüche.
   - title: Data-driven + Reality-checked
     icon: ti-stats-up
-    content: Daten sind der beste Weg um schnell und unkomplizierte Hypothesen zu
-      generieren. Die sind aber nur gut wenn sie auch zur Realität passen.
+    content: Daten sind der beste Weg, um schnell und unkomplizierte Hypothesen zu
+      generieren. Diese sind allerdings nur dann gut, wenn sie auch zur Realität passen.
   - title: Down-to-earth
     icon: ti-announcement
-    content: Wir sind Macher. Wir packen an, stellen Fragen und kommunizieren und
-      kontaktieren so lange bis wir plausible Vorschläge machen können.
+    content: Wir sind Macher. Wir packen an, stellen Fragen, kommunizieren und kontaktieren
+      so lange bis wir plausible Lösungsvorschläge machen können.
