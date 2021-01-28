@@ -16,7 +16,7 @@ pricing:
       label: Kontakt
       link: "#Contact"
   - name: Retainer
-    price: 500€
+    price: 300€
     unit: Tag
     services:
     - Verfügbarkeit in 12h
