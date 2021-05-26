@@ -14,6 +14,15 @@ sections:
   templates:
   - author
 - type: heading
+  label: Datenschutzerklärung
+- type: directory
+  path: exampleSite/content/english/datenschutzerklärung
+  label: Datenschutzerklärung (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - author
+- type: heading
   label: Data
 - type: directory
   path: exampleSite/data
