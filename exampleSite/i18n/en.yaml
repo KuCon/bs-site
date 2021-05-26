@@ -1,6 +1,8 @@
 ---
 - id: impressumTitle
   translation: Impressum
+- id: datenschutzTitle
+  translation: Datenschutzerklärung
 - id: blogTitle
   translation: Mehr Infos
 - id: readMore
